@@ -1,0 +1,20 @@
+{
+  "name": "curso-scope-closure",
+  "version": "1.0.0",
+  "description": "Repo del curso de Scope y Closures en JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresbadillo/curso-scope-closure.git"
+  },
+  "keywords": [],
+  "author": "Andres Badillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresbadillo/curso-scope-closure/issues"
+  },
+  "homepage": "https://github.com/andresbadillo/curso-scope-closure#readme"
+}
